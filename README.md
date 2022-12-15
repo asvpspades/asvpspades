@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Graphic Designer
 ----------------------------------
 
-I've been learning how to code for 6 months through Zero to Mastery Academy and other resources, after a career switch. I started with HTML & CSS. My aim is for frontend developer role that will help grow my skills as a web developer.
+I've been learning how to code after a career switch, through Zero to Mastery Academy and other resources. I started with HTML & CSS. My aim is for frontend developer role that will help grow my skills as a web developer.
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [adamwedev@proton.me](mailto:adamwedev@proton.me)
