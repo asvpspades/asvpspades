@@ -8,7 +8,7 @@ I've been learning how to code after a career switch, through Zero to Mastery Ac
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [adamwebdev@proton.me](mailto:adamwebdev@proton.me)
-* 🧠  I'm learning Javascript
+* 🧠  I'm currently learning Javascript
 * 🤝  I'm open to collaborating on interesting open source projects
 
 ### Skills
