@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Graphic Designer
 ----------------------------------
 
-I am a junior web developer with a strong foundation in HTML and CSS and basic knowledge of JavaScript. I am currently seeking a frontend developer role where I can continue to grow and improve my skills. My passion for web development is coupled with a strong attention to detail and the ability to learn quickly. I've been learning how to code through Zero to Mastery Academy and other resources.
+I am a junior web developer with a strong foundation in HTML and CSS and basic knowledge of JavaScript. I am currently seeking a frontend developer role where I can continue to grow and improve my skills. I've been learning how to code through Zero to Mastery Academy and other resources. My passion for web development is coupled with a strong attention to detail and the ability to learn quickly.
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [adamwebdev@proton.me](mailto:adamwebdev@proton.me)
