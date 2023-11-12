@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adam
 ============================================================================================================================
 
-Web Developer and Graphic Designer
+Python Developer
 ----------------------------------
 
-I am a web developer with a strong foundation in HTML and CSS and basic knowledge of JavaScript. I am currently seeking a frontend developer role where I can continue to grow and improve my skills. I've been learning how to code through Zero to Mastery Academy and other resources. My passion for web development is coupled with a strong attention to detail and the ability to learn quickly.
+I am a python developer with a strong foundation in Python, Javascript & C++. I am currently seeking a backend developer role where I can continue to grow and improve my skills. I've been learning how to code through Zero to Mastery Academy and other resources. My passion for web development is coupled with a strong attention to detail and the ability to learn quickly.
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [adamwebdev@proton.me](mailto:adamwebdev@proton.me)
-* 🧠  I'm currently learning Javascript
+* 🧠  I'm currently learning MySQL
 * 🤝  I'm open to collaborating on interesting open source projects
 
 ### Skills
